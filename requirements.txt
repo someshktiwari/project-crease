@@ -1,0 +1,6 @@
+langchain
+langchain-groq
+langchain-core
+langgraph
+pydantic
+python-dotenv
